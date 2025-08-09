@@ -59,5 +59,3 @@ Traditional attendance methods are often inefficient, error-prone, and susceptib
 2. Open the `siamese-network.ipynb` notebook in a Jupyter environment or Kaggle notebook  
 3. Ensure GPU acceleration is enabled for faster training  
 4. Follow the notebook cells sequentially to preprocess data, train the model, and evaluate results
-
-This project is licensed under the MIT License. See the LICENSE file for details.
