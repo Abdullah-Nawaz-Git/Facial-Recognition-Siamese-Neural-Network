@@ -16,7 +16,7 @@ Traditional attendance methods are often inefficient, error-prone, and susceptib
 
 ## Repository Contents
 
-- `Siamese_Network_Training.ipynb`: Notebook containing the full pipeline for training the Siamese Neural Network, including data preprocessing, model architecture, training, and evaluation.
+- `siamese-network.ipynb`: Notebook containing the full pipeline for training the Siamese Neural Network, including data preprocessing, model architecture, training, and evaluation.
 
 ---
 
@@ -56,7 +56,7 @@ Traditional attendance methods are often inefficient, error-prone, and susceptib
 ## How to Run
 
 1. Clone the repository  
-2. Open the `Siamese_Network_Training.ipynb` notebook in a Jupyter environment or Kaggle notebook  
+2. Open the `siamese-network.ipynb` notebook in a Jupyter environment or Kaggle notebook  
 3. Ensure GPU acceleration is enabled for faster training  
 4. Follow the notebook cells sequentially to preprocess data, train the model, and evaluate results
 
